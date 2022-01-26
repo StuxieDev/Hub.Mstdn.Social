@@ -6,13 +6,13 @@
 
 - name: calculsoberic
   role: Moderator / Co-admin
-  avatar: /assets/images/avatars/calculsoberic.png
+  avatar: /assets/images/avatars/calculsoberic.jpg
   link: https://mstdn.social/@calculsoberic
   description: calculsoberic is co-admin and moderator on mstdn.social
 
 - name: caranmegil
   role: Moderator / Co-admin
-  avatar: /assets/images/avatars/caranmegil.png
+  avatar: /assets/images/avatars/caranmegil.jpeg
   link: https://mstdn.social/@caranmegil
   description: caranmegil is co-admin and moderator on mstdn.social
 
@@ -24,6 +24,6 @@
 
 - name: ernie
   role: Moderator
-  avatar: /assets/images/avatars/ernie.png
+  avatar: /assets/images/avatars/ernie.jpg
   link: https://mstdn.social/@ernie
   description: ernie is moderator on mstdn.social
