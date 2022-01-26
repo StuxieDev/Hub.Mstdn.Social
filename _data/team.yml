@@ -2,4 +2,28 @@
   role: Admin
   avatar: /assets/images/avatars/stux.png
   link: https://mstdn.social/@stux
-  description: stux is the founder of Mstdn.Social.
+  description: stux is the founder of mstdn.social
+
+- name: calculsoberic
+  role: Moderator / Co-admin
+  avatar: /assets/images/avatars/calculsoberic.png
+  link: https://mstdn.social/@calculsoberic
+  description: calculsoberic is co-admin and moderator on mstdn.social
+
+- name: caranmegil
+  role: Moderator / Co-admin
+  avatar: /assets/images/avatars/caranmegil.png
+  link: https://mstdn.social/@caranmegil
+  description: caranmegil is co-admin and moderator on mstdn.social
+
+- name: novaburst
+  role: Moderator
+  avatar: /assets/images/avatars/novaburst.png
+  link: https://mstdn.social/@novaburst
+  description: novaburst is moderator on mstdn.social
+
+- name: ernie
+  role: Moderator
+  avatar: /assets/images/avatars/ernie.png
+  link: https://mstdn.social/@ernie
+  description: ernie is moderator on mstdn.social
