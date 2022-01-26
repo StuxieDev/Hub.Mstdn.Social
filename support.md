@@ -15,13 +15,9 @@ Running a project like Mstdn can be expensive and take a lot of time. We have a 
 
 ![](/assets/images/stickers.jpeg)
 
-If you want to buy some Mstdn stickers for your laptop (or anywhere else you fancy sticking them) you can buy them below. By purchasing Mstdn stickers, not only will you have some really cool swag, but you will also be helping to support the project.
+If you want to buy some stickers for your laptop (or anywhere else you fancy sticking them) you can buy them below. By purchasing Mstdn stickers, not only will you have some really cool swag, but you will also be helping to support the project.
 
-The stickers measure approximately 7.5cm (3") across and 10cm (4") high.
-
-We would like to thank Mstdn member, [Jens Reuterberg](https://Mstdn.org/@ohyran), for kindly donating his time and creating this really cool design.
-
-<a class="button" target="blank" href="https://www.designbyhumans.com/shop/Mstdn/">Buy Stickers Now --></a>
+<a class="button" target="blank" href="https://stuckr.net/">Buy Stickers Now --></a>
 
 ## Other ways to support us
 
