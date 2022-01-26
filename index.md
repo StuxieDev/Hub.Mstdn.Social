@@ -1,7 +1,7 @@
 ---
-title: Fosstodon Hub
-header: Fosstodon Hub
-description: The largest FOSS focussed instance on the Fediverse.
+title: Mstdn Hub
+header: Mstdn Hub
+description: Explore and discover social media the fun way.
 permalink: /
 layout: default
 ---

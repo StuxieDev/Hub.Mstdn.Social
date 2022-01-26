@@ -1,20 +1,20 @@
 ---
-title: About | Fosstodon Hub
+title: About | Mstdn Hub
 description: Some info on how things work around here.
 permalink: /about/
 layout: default
 ---
 # About Us
 
-The whole point of Fosstodon is to be a community of like-minded people who enjoy Free & Open Source Software (FOSS). Running a social network can be expensive, so [we accept donations in various forms](/support).
+The whole point of Mstdn is to be a community of like-minded people who enjoy Free & Open Source Software (FOSS). Running a social network can be expensive, so [we accept donations in various forms](/support).
 
 From the very start, we committed to donating any extra money we have available to other open source project. This page will tell you a little more about what that process looks like - we also have a break down of how we use the funding at the bottom of this page.
 
-At Fosstodon, we want to be as transparent as possible when it comes to the support we receive from our members. You guys [support us](/support) every single day, so we want to let you know where your hard earned money is going.
+At Mstdn, we want to be as transparent as possible when it comes to the support we receive from our members. You guys [support us](/support) every single day, so we want to let you know where your hard earned money is going.
 
 ## How we assign funds
 
-When you make a donation, either by [Patreon](https://patreon.com/fosstodon) or [PayPal](https://paypal.me/fosstodon), it eventually ends up in our PayPal account. With this funding we do a couple of things:
+When you make a donation, either by [Patreon](https://patreon.com/Mstdn) or [PayPal](https://paypal.me/Mstdn), it eventually ends up in our PayPal account. With this funding we do a couple of things:
 
 1.  We keep a 6 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
 2.  Anything over and above our running costs is accumulated in to donations to open source projects that our Patrons get to choose. We tend to save these funds up so we can make meaningful donations – usually a minimum of $100/donation.
@@ -35,7 +35,7 @@ The details below are accurate as of **30th November 2021**.
 
 |             Details            | Amount (USD) |
 |:------------------------------:|:------------:|
-| Fosstodon hosting: | $90.00       |
+| Mstdn hosting: | $90.00       |
 | CDN hosting: | $20.00       |
 | Mattermost server: | $5.00       |
 | **Current monthly operating costs:** | **$115.00**      |
