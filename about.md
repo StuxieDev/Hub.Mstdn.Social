@@ -17,7 +17,7 @@ When you make a donation, either by [Patreon](https://patreon.com/Mstdn) or [Pay
 1.  We keep a 1-2 month float of running costs; so we know we have funding in place should we need extra cash for things like an unexpected server upgrade.
 2.  Anything over and above our running costs is accumulated in to new projects that benefit the Fediverse in any other way.
 
-## Current funding
+## Current funding mstdn.social
 
 The details below are accurate as of **26th Januari 2022**.
 
@@ -53,3 +53,19 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 -   [Invidious](https://yt.mstdn.social/) - Alternate YouTube front-end
 -   [Nitter](https://nitter.mstdn.social/) - Alternate Twitter front-end
 -   [Bibliogram](https://bibliogram.mstdn.social/) - Alternate InstaGram front-end
+
+
+## Current costs other services
+
+The details below are accurate as of **26th Januari 2022**.
+
+|             Details            | Amount (EUR) |
+|:------------------------------:|:------------:|
+| Pixey.org(CX41): | €19.24       |
+| Misskey.ai(CX41): | €19.24       |
+| AlterFE's(CPX41): | €27.71       |
+| Pixey Storage(500GB): | €24.20       |
+| Misskey Storage(500GB): | €24.20       |
+| PeerTube & Matrix(homeserver) | ~€25      |
+| GitLab(CPX31)       | €15.00 |
+| **Totals extra services:**           | **€154.59**   |
