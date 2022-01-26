@@ -29,3 +29,27 @@ The details below are accurate as of **26th Januari 2022**.
 | **Current monthly operating costs:** | **€283.00**      |
 | **Current PayPal funding:**       | **€143.00** |
 | **Total months funded:**           | **0.9**   |
+
+## Other project we host
+
+The Fediverse is more than Mastodon, we not only provide an ethical alternative for social media platforms like Twitter and Facebook but we host also some additional services.
+
+### Services
+
+-   [Status](https://status.mstdn.social/) - Keep track of past and ongoing issues
+-   [PeerTube](https://peertube.tv/) - Federated video sharing
+-   [Pixelfed](https://pixey.org/) - Federated photo sharing
+-   [Misskey](https://misskey.ai/) - Federated social network(like Facebook)
+-   [Matrix + Element](https://stux.chat/) - Secure, federated chat
+-   [Searx](https://searx.mstdn.social/) - Privacy search engine proxy
+-   [AllTube](https://ytd.mstdn.social/) - Download videos from everywhere
+-   [Lstu](https://lstu.mstdn.social/) - Privacy-friendly URL shortner
+-   [RSS Bridge](https://rss.mstdn.social/) - Generate RSS feed from anything
+-   [GitLab](https://git.stuxhost.com/) - Privacy friendly DevOps platform
+
+### Alternate FE
+
+-   [Halcyon](https://halcyon.mstdn.social/) - Alternate Mastodon front-end
+-   [Invidious](https://yt.mstdn.social/) - Alternate YouTube front-end
+-   [Nitter](https://nitter.mstdn.social/) - Alternate Twitter front-end
+-   [Bibliogram](https://bibliogram.mstdn.social/) - Alternate InstaGram front-end
