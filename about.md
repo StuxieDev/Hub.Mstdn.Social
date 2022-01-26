@@ -6,7 +6,7 @@ layout: default
 ---
 # About Us
 
-The whole point of mstdn.sociakl is to be a community of like-minded people who enjoy social media with love and respect. Running a social network can be expensive, so [we accept donations in various forms](/support).
+The whole point of mstdn.social is to be a community of like-minded people who enjoy social media with love and respect. Running a social network can be expensive, so [we accept donations in various forms](/support).
 
 At mstdn.social, we want to be as transparent as possible when it comes to the support we receive from our members. You guys [support us](/support) every single day, so we want to let you know where your hard earned money is going.
 
