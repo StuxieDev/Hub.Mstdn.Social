@@ -1,6 +1,6 @@
 ---
-title: Mstdn Hub
-header: Mstdn Hub
+title: Mstdn.Social Hub
+header: Mstdn.Social Hub
 description: Explore and discover social media the fun way.
 permalink: /
 layout: default

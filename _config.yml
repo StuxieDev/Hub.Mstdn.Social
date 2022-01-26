@@ -4,7 +4,7 @@ plugins:
 
 # SEO Stuff
 author: stux
-description: Mstdn Hub is an informational site tied to Mstdn, the largest FOSS focussed Mastodon instance on the fediverse.
+description: Mstdn.Social Hub is an informational site tied to Mstdn, the largest FOSS focussed Mastodon instance on the fediverse.
 lang: en
 locale: en_GB
 url: "https://hub.mstdn.social"

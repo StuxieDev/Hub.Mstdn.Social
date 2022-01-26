@@ -12,7 +12,7 @@ This document lays out the ground rules for participating in the mstdn.social co
 
 * Provide a friendly, safe, and welcoming environment for everyone, regardless of level of experience, gender identity or expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, political affiliation, or other similar characteristic.
 * Create a supportive community, where people freely share their passions and are excited and positive about each other's successes.
-* Provide a venue for casual conversations — we may all be passionate about technology, but that doesn't mean that our conversations always centre on that shared passion.
+* Provide a venue for casual conversations.
 
 ## Non-Goals
 
@@ -20,7 +20,6 @@ While it's important to know what mstdn.social is, it's just as important to und
 
 * A free speech zone. mstdn.social is a community with specific — and high — standards of behaviour. If you would like to exercise your full free speech rights, you can do so **somewhere else**; while on mstdn.social, you should agree to follow the community rules set out in this CoC.
 * An advocacy space. There are many important, controversial and political issues; and advocating for what you believe is important. However, mstdn.social is not the place for that advocacy. Even correct views can violate our CoC.
-* An experts-only space. We all share a love of FOSS, but no mstdn.social user should be shamed for not understanding a basic concept or told to read the manual before asking questions about a certain technology.
 
 ## Public Toots
 

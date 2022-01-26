@@ -1,5 +1,5 @@
 ---
-title: About | Mstdn Hub
+title: About | Mstdn.Social Hub
 description: Some info on how things work around here.
 permalink: /about/
 layout: default
