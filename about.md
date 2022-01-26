@@ -66,6 +66,6 @@ The details below are accurate as of **26th Januari 2022**.
 | AlterFE's(CPX41): | €27.71       |
 | Pixey Storage(500GB): | €24.20       |
 | Misskey Storage(500GB): | €24.20       |
-| PeerTube & Matrix(homeserver) | ~€25      |
+| PeerTube & Matrix(homeserver) | ~€25.00      |
 | GitLab(CPX31)       | €15.00 |
 | **Totals extra services:**           | **€154.59**   |
