@@ -30,7 +30,7 @@ The details below are accurate as of **26th Januari 2022**.
 | **Current PayPal funding:**       | **€143.00** |
 | **Total months funded:**           | **0.9**   |
 
-## Other project we host
+## Other projects we host
 
 The Fediverse is more than Mastodon, we not only provide an ethical alternative for social media platforms like Twitter and Facebook but we host also some additional services.
 
