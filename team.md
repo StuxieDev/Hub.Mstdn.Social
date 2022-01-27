@@ -1,5 +1,5 @@
 ---
-title: The Team | Mstdn.Social Hub
+title: mstdn.social - The Team
 description: A list of the mstdn.social team members and their roles.
 permalink: /team/
 layout: default

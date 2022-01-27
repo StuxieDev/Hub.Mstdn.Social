@@ -1,5 +1,5 @@
 ---
-title: CoC | Mstdn.Social Hub
+title: mstdn.social - Code of Conduct
 description: Guidelines on how we expect our members to behave.
 permalink: /coc/
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: Contact | Mstdn.Social Hub
+title: mstdn.social - Get in touch
 description: Want to get in touch? This page tells you how.
 permalink: /contact/
 layout: default
