@@ -16,12 +16,6 @@
   link: https://mstdn.social/@caranmegil
   description: caranmegil is co-admin and moderator on mstdn.social
 
-- name: novaburst
-  role: Moderator
-  avatar: /assets/images/avatars/novaburst.png
-  link: https://mstdn.social/@novaburst
-  description: novaburst is moderator on mstdn.social
-
 - name: ernie
   role: Moderator
   avatar: /assets/images/avatars/ernie.jpg
