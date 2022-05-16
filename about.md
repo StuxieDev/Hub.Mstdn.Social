@@ -19,16 +19,16 @@ When you make a donation, either by [Patreon](https://patreon.com/Mstdn) or [Pay
 
 ## Current funding mstdn.social
 
-The details below are accurate as of **26th Januari 2022**.
+The details below are accurate as of **16th May 2022**.
 
 |             Details            | Amount (EUR) |
 |:------------------------------:|:------------:|
-| Mstdn hosting(CCX41): | €169.00       |
-| Media storage(2.2TB): | €109.00       |
-| MailGun SMTP(~15-20K): | €5.00       |
-| **Current monthly operating costs:** | **€283.00**      |
-| **Current PayPal funding:**       | **€143.00** |
-| **Total months funded:**           | **0.9**   |
+| Mstdn hosting(CCX52): | €326.48       |
+| Media storage(2.6TB)(Min 3month): | €54.00       |
+| MailGun SMTP(~25-45K): | €20.00       |
+| **Current monthly operating costs:** | **€400.48**      |
+| **Current PayPal funding:**       | **€435.61** |
+| **Total months funded:**           | **1.09**   |
 
 ## Other projects we host
 
@@ -40,12 +40,13 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 -   [PeerTube](https://peertube.tv/) - Federated video sharing
 -   [Pixelfed](https://pixey.org/) - Federated photo sharing
 -   [Misskey](https://misskey.ai/) - Federated social network(like Facebook)
--   [Matrix + Element](https://stux.chat/) - Secure, federated chat
+-   [Matrix + Element](https://chat.mstdn.social/) - Secure, federated chat
 -   [Searx](https://searx.mstdn.social/) - Privacy search engine proxy
 -   [AllTube](https://ytd.mstdn.social/) - Download videos from everywhere
 -   [Lstu](https://lstu.mstdn.social/) - Privacy-friendly URL shortner
 -   [RSS Bridge](https://rss.mstdn.social/) - Generate RSS feed from anything
--   [GitLab](https://git.stuxhost.com/) - Privacy friendly DevOps platform
+-   [Mastodon.Coffee](https://mastodon.coffee/) - Alternate Mastodon Platform
+-   [CatDownload.com](https://catdownload.com/) - Free 2GB Cloud Storage
 
 ### Alternate FE
 
@@ -57,15 +58,17 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 
 ## Current costs other services
 
-The details below are accurate as of **26th Januari 2022**.
+The details below are accurate as of **16th May 2022**.
 
 |             Details            | Amount (EUR) |
 |:------------------------------:|:------------:|
 | Pixey.org(CX41): | €19.24       |
 | Misskey.ai(CX41): | €19.24       |
+| Matrix + Element(CX41): | €19.24       |
+| Mastodon.Coffee(CX41): | €19.24       |
 | AlterFE's(CPX41): | €27.71       |
 | Pixey Storage(500GB): | €24.20       |
 | Misskey Storage(500GB): | €24.20       |
-| PeerTube & Matrix(homeserver) | ~€25.00      |
-| GitLab(CPX31)       | €15.00 |
-| **Totals extra services:**           | **€154.59**   |
+| PeerTube | ~€25.00      |
+| CatDownload.com(CPX31)       | €15.00 |
+| **Totals extra services:**           | **€193.07**   |
