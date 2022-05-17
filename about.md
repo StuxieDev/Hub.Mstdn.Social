@@ -65,10 +65,10 @@ The details below are accurate as of **16th May 2022**.
 | Pixey.org(CX41): | €19.24       |
 | Misskey.ai(CX41): | €19.24       |
 | Matrix + Element(CX41): | €19.24       |
-| Mastodon.Coffee(CX41): | €19.24       |
+| Mastodon.Coffee(CX21): | €5.93       |
 | AlterFE's(CPX41): | €27.71       |
 | Pixey Storage(500GB): | €24.20       |
 | Misskey Storage(500GB): | €24.20       |
 | PeerTube | ~€25.00      |
 | CatDownload.com(CPX31)       | €15.00 |
-| **Totals extra services:**           | **€193.07**   |
+| **Totals extra services:**           | **€179.67**   |
