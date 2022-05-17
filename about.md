@@ -46,7 +46,6 @@ The Fediverse is more than Mastodon, we not only provide an ethical alternative 
 -   [Lstu](https://lstu.mstdn.social/) - Privacy-friendly URL shortner
 -   [RSS Bridge](https://rss.mstdn.social/) - Generate RSS feed from anything
 -   [Mastodon.Coffee](https://mastodon.coffee/) - Alternate Mastodon Platform
--   [CatDownload.com](https://catdownload.com/) - Free 2GB Cloud Storage
 
 ### Alternate FE
 
